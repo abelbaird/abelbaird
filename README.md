@@ -10,7 +10,7 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 
 <p align='center1'>Twitter/x:<a href="https://x.com/PJP2064860?t=2qZNp19uPbugS84yC58Lbw&s=09">✘⊙﹏⊙✘</a>.</p>
 <p align='center1'>QQ:<a href="https://qm.qq.com/q/8vicAZQHkc">week</a>.</p>
-<p align='center'>TG群聊:<a href="https://t.me/+uTCabyrpFd83OGNh">聊天群</a>.</p>
+<p align='center1'>TG群聊:<a href="https://t.me/+uTCabyrpFd83OGNh">聊天群</a>.</p>
 <p align='center'>直接点击即可跳转若需安装包请点击:<a href="https://telegram.org/android">Telegram安装包</a>.</p>
 <hr>
 <p align='center'>加速器推荐:<a href="https://512.jsy.lol/#/register?code=AXcBGu2o">加速器</a>.</p></hr>
