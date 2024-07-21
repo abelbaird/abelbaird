@@ -4,7 +4,7 @@
 ✘⊙﹏⊙✘
 </p>
 <p>以下是联系方式</p>
-<p align='center'>以下是联系方式 <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<p align='center'>Twitter/x<a href="https://x.com/PJP2064860?t=2qZNp19uPbugS84yC58Lbw&s=09">✘⊙﹏⊙✘</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
