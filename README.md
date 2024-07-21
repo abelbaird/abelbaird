@@ -1,5 +1,5 @@
 [![Social banner for
-abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimized.svg)](https://github.com/abelbaird/abelbaird)
+abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimized.svg)](https://github.com/abelbaird/abelbaird/blob/main/README.md)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 ✘⊙﹏⊙✘
