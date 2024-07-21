@@ -4,7 +4,7 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 <p align='center'>
 ✘⊙﹏⊙✘
 </p>
-<h1>你可以在这找到我目前所有的联系方式:</h1>
+<h1 align='center'>你可以在这找到我目前所有的联系方式:</h1>
 <p align='center'>😍✈️<a href="#">✘⊙﹏⊙✘</a>.</p>
 <p align='center1'>Telegram:<a href="https://t.me/PJP2064860">li dea</a>.</p>
 
