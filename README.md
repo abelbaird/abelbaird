@@ -23,7 +23,7 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 <hr></hr>
 <p>身高:170   体重:50kg
 薄肌可互看</p>
-<img src="https://github.com/abelbaird/medium/blob/main/1721569577419.jpg" alt="some_text" width="" height="">
+<img src="https://github.com/abelbaird/medium/blob/main/1721569577419.jpg" alt="some_text" width="100" height="100">
 
 
 <h1 align='center'><i>😍欢迎帅哥打扰😍</i></h1>
