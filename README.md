@@ -10,7 +10,6 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/svg-gobbler.svg)](https
 
 <p align='center1'>Twitter/x:<a href="https://x.com/beiji1328?t=NCKYbPgmCFOMcjlPuX6iSQ&s=09">✘⊙﹏⊙✘</a>.</p>
 <p align='center1'>QQ:<a href="https://qm.qq.com/q/8vicAZQHkc">week</a>.</p>
-<p align='center1'>TG群聊:<a href="https://t.me/+uTCabyrpFd83OGNh">聊天群</a>.</p>
 <p align='center'><a href="https://telegram.org/android">Telegram安装包</a>.</p>
 <p align='center'><a href="https://github.com/abelbaird/Telegram/blob/main/README.md">Telegram使用教程</a>.</p>
 <p>反馈邮箱:abelbaird62@gmail.com</p>
